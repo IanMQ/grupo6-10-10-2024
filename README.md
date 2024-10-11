@@ -39,3 +39,5 @@ The following guides illustrate how to use some features concretely:
 * [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
 
 Author: [Ian Macavilca](ianmacavilca@gmail.com)
+Author: [George Galván](george.galvan2016@gmail.com)
+Author: [Jamir Marzál](angeldemetal18@gmail.com)

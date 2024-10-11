@@ -1,8 +1,7 @@
 package pe.upc.grupo6catchupplatform.news.domain.model.commands;
 
-public record CreateFavoriteSourceCommand(Long id) {
-
-    public CreateFavoriteSourceCommand {
+public record DeleteFavoriteSourceCommand(Long id) {
+    public DeleteFavoriteSourceCommand {
         if (id == null) {
             throw new IllegalArgumentException("id is required");
         }
